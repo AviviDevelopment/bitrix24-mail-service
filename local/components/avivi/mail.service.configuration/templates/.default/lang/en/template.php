@@ -1,0 +1,20 @@
+<?
+$MESS["MAIL_SERVICE_ALERT_MESSAGE"] = "<strong>Attention!</strong> Delete and modify mail service configurations at your own risk.<div>Services with names such as gmail, outlook.com, icloud, office365, exchange, yahoo, aol, yandex, mail.ru, other, bitrix24 cannot be created, since they will not be displayed on this page!</div>";
+$MESS["MAIL_SERVICE_ID"] = "ID";
+$MESS["MAIL_SERVICE_NAME"] = "Name";
+$MESS["MAIL_SERVICE_IMAP_SERVER"] = "IMAP Server";
+$MESS["MAIL_SERVICE_IMAP_PORT"] = "IMAP Port";
+$MESS["MAIL_SERVICE_IMAP_ENC"] = "IMAP Encryption";
+$MESS["MAIL_SERVICE_LINK"] = "Link";
+$MESS["MAIL_SERVICE_SMTP_SERVER"] = "SMTP Server";
+$MESS["MAIL_SERVICE_SMTP_PORT"] = "SMTP Port";
+$MESS["MAIL_SERVICE_SMTP_ENC"] = "SMTP Encryption";
+$MESS["MAIL_SERVICE_UPLOAD"] = "Upload outgoing";
+$MESS["MAIL_SERVICE_ADD_NEW"] = "Add new config";
+$MESS["MAIL_SERVICE_POPUP_CANCEL_BUTTON"] = "Cancel";
+$MESS["MAIL_SERVICE_POPUP_ADD_BUTTON"] = "Add";
+$MESS["MAIL_SERVICE_REQUIRED_FIELD"] = "This field is required!";
+$MESS["MAIL_SERVICE_EMPTY_WORD"] = "Empty";
+$MESS["MAIL_SERVICE_NAME_EMPTY_ERROR"] = "Name is empty!";
+$MESS["MAIL_SERVICE_CONFIRM_TITLE"] = "Are you sure ?";
+$MESS["MAIL_SERVICE_CONFIRM_MESSAGE"] = "Are you sure you want to delete mail config item ?";

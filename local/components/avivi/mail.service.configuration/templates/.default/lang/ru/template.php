@@ -1,0 +1,20 @@
+<?
+$MESS["MAIL_SERVICE_ALERT_MESSAGE"] = "<strong>Внимание!</strong> Удаляйте и изменяйте конфигурации почтовых служб на свой страх и риск.<div>Службы с такими названиями как gmail, outlook.com, icloud, office365, exchange, yahoo, aol, yandex, mail.ru, other, bitrix24 создавать нельзя, так как они не будут отображаться на данной странице!</div>";
+$MESS["MAIL_SERVICE_ID"] = "ID";
+$MESS["MAIL_SERVICE_NAME"] = "Имя";
+$MESS["MAIL_SERVICE_IMAP_SERVER"] = "IMAP Сервер";
+$MESS["MAIL_SERVICE_IMAP_PORT"] = "IMAP Порт";
+$MESS["MAIL_SERVICE_IMAP_ENC"] = "IMAP Шифрование";
+$MESS["MAIL_SERVICE_LINK"] = "Ссылка";
+$MESS["MAIL_SERVICE_SMTP_SERVER"] = "SMTP Сервер";
+$MESS["MAIL_SERVICE_SMTP_PORT"] = "SMTP Порт";
+$MESS["MAIL_SERVICE_SMTP_ENC"] = "SMTP Шифрование";
+$MESS["MAIL_SERVICE_UPLOAD"] = "Загрузка исходящих";
+$MESS["MAIL_SERVICE_ADD_NEW"] = "Добавить новую конфигурацию";
+$MESS["MAIL_SERVICE_POPUP_CANCEL_BUTTON"] = "Отмена";
+$MESS["MAIL_SERVICE_POPUP_ADD_BUTTON"] = "Создать";
+$MESS["MAIL_SERVICE_REQUIRED_FIELD"] = "Это поле обязательное!";
+$MESS["MAIL_SERVICE_EMPTY_WORD"] = "Пусто";
+$MESS["MAIL_SERVICE_NAME_EMPTY_ERROR"] = "Поле имя не заполнено!";
+$MESS["MAIL_SERVICE_CONFIRM_TITLE"] = "Вы уверены ?";
+$MESS["MAIL_SERVICE_CONFIRM_MESSAGE"] = "Вы уверены что хотите удалить конфигурацию почтовой службы ?";
